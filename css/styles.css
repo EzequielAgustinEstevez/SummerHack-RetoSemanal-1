@@ -81,3 +81,8 @@ a {
   box-sizing: border-box;
   margin-top: 1em;
 }
+header{
+  text-align: center;
+  background-color: #DF0024;
+  box-shadow: 3px 4px 7px 2px rgba(0, 0, 0, 0.2);
+}
